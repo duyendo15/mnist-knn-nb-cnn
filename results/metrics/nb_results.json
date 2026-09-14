@@ -1,0 +1,12 @@
+{
+    "model": "Naive Bayes",
+    "best_params": {
+        "var_smoothing": 0.1
+    },
+    "cv_accuracy": 0.7989999999999999,
+    "test_accuracy": 0.814,
+    "test_f1_macro": 0.8123486694203106,
+    "tuning_time_sec": 14.246345043182373,
+    "train_time_sec": 0.29108643531799316,
+    "predict_time_sec": 0.337174654006958
+}

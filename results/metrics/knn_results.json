@@ -1,0 +1,14 @@
+{
+    "model": "KNN",
+    "best_params": {
+        "metric": "euclidean",
+        "n_neighbors": 3,
+        "weights": "distance"
+    },
+    "cv_accuracy": 0.9352,
+    "test_accuracy": 0.9717,
+    "test_f1_macro": 0.971528765919764,
+    "tuning_time_sec": 26.85765242576599,
+    "train_time_sec": 0.03525996208190918,
+    "predict_time_sec": 7.62394380569458
+}
