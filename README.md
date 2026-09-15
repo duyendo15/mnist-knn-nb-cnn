@@ -1,4 +1,4 @@
-# Phân tích, So sánh và Ứng dụng thuật toán KNN, Naive Bayes và CNN trong Học máy
+# Nghiên cứu và đánh giá hiệu năng của các thuật toán học máy KNN, Naive Bayes, CNN trên bài toán nhận dạng chữ số viết tay MNIST
 
 Dự án so sánh hiệu suất của 3 thuật toán học máy kinh điển (KNN, Naive Bayes) và học sâu (CNN) trên bài toán phân loại chữ số viết tay MNIST — từ tiền xử lý dữ liệu, tuning hyperparameter, đến đánh giá và phân tích lỗi chi tiết.
 
