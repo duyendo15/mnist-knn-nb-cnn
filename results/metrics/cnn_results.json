@@ -1,0 +1,9 @@
+{
+    "model": "CNN",
+    "total_params": 93322,
+    "epochs": 10,
+    "test_accuracy": 0.9918,
+    "test_f1_macro": 0.9917328656075485,
+    "train_time_sec": null,
+    "predict_time_sec": 1.3908360004425049
+}
